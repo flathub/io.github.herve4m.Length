@@ -1,7 +1,7 @@
 ---
 id: io.github.herve4m.Length
 runtime: org.gnome.Platform
-runtime-version: "47"
+runtime-version: "48"
 sdk: org.gnome.Sdk
 command: length
 finish-args:
@@ -26,6 +26,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/herve4m/length.git
-        tag: 0.5.0
-        commit: c42a0be84afe1ccb6ff565c80211f4fdb809b27c
+        tag: 0.6.0
+        commit: aa1e7b786949a0c6b369149ce9032528eafee461
 ...
