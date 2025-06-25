@@ -26,6 +26,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/herve4m/length.git
-        tag: 0.6.0
-        commit: aa1e7b786949a0c6b369149ce9032528eafee461
+        tag: 0.7.0
+        commit: 97f22f67aa44b0877ffa7e2566129ab6216c6a07
 ...
